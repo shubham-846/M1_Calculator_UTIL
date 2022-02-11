@@ -1,0 +1,8 @@
+Verify that all the buttons are present and text written on them is readable.
+Check the arithmetic operations are working fine- +, -, /, * etc.
+Verify that BODMAS is applied in case of complex queries and the correct result is returned
+Verify the number of digits allowed to enter in the calculator for any operation.
+Verify the limit of the response value.
+Verify the functioning of memory functions.
+Check if the sin, cos, tan and cos is operational using the keys.
+Verify if the user can delete digits one by one using the "C" key.
