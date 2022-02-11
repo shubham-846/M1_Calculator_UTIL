@@ -1,0 +1,1 @@
+START-->INPUT-->S=1,G=1-->S=S*G-->OUTPUT-->END
